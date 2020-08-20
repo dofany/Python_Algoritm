@@ -2,4 +2,6 @@
 
 #### input_output : 입출력과 사칙연산
 
-#### if : if 조건문 
+#### if문 : if 조건문
+
+#### for문 : for 반복문
