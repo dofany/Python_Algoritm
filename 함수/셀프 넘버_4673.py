@@ -21,4 +21,4 @@ def self_num(start, end):
         else:
             print(i)
 
-self_num(1, 100)
+self_num(1, 10001)
