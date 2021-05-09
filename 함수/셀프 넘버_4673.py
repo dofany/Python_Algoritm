@@ -15,11 +15,10 @@ def self_num(start, end):
         result.append(func(i))
 
     for i in range(start, end):
-        if i not in result:
-            print(i)
-
-        else:
+        if i in result:
             continue
 
+        else:
+            print(i)
 
-self_num(1, 10001)
+self_num(1, 100)
